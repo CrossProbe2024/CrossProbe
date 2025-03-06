@@ -34,4 +34,5 @@ The repository contains the code and data for the paper "CrossProbe: LLM-empower
 
 - [] Add the Jupyter Notebook for the experiments.
     - [x] Knowledge Database from Documentation: `data/docs.ipynb`.
+    - [x] Code generation with LLMs (OpenAI and compatible providers): `generation.ipynb`.
 - [ ] Organize the raw data for OpenAI outputs.
