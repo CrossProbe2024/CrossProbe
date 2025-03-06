@@ -16,7 +16,6 @@ The repository contains the code and data for the paper "CrossProbe: LLM-empower
     conda create --name <env> python=3.10
     ```
     where `<env>` is the environment name.
-    ```
 
 - `environ` contains the dependencies for each experiment environment in the paper. To install the dependencies, run the following command:
     ```bash
@@ -32,7 +31,7 @@ The repository contains the code and data for the paper "CrossProbe: LLM-empower
 
 ## Upcoming
 
-- [] Add the Jupyter Notebook for the experiments.
+- [ ] Add the Jupyter Notebook for the experiments.
     - [x] Knowledge Database from Documentation: `data/docs.ipynb`.
     - [x] Code generation with LLMs (OpenAI and compatible providers): `generation.ipynb`.
 - [ ] Organize the raw data for OpenAI outputs.
