@@ -30,7 +30,8 @@ The repository contains the code and data for the paper "CrossProbe: LLM-empower
 
 - The file names are in the format `<source_framework>-<issue_id>-<target_framework>.py`.
 
-## TODO
+## Upcoming
 
-- [ ] Add the Jupyter Notebook for the experiments.
+- [] Add the Jupyter Notebook for the experiments.
+    - [x] Knowledge Database from Documentation: `data/docs.ipynb`.
 - [ ] Organize the raw data for OpenAI outputs.
